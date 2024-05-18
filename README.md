@@ -1,4 +1,4 @@
-University project to create an invetory trough FIFO 
+University Assignment to create an invetory trough FIFO 
 
 Write an interactive program in C++ that will be a tool
 for processing the inventory of goods in the warehouse for the given supplier company.
